@@ -1,2 +1,2 @@
 # codepreplabs.github.io
-company website
+website for codepreplabs
